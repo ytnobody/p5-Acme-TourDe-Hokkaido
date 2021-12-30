@@ -1,6 +1,6 @@
 # NAME
 
-Acme::TourDe::Hokkaido - It's new $module
+Acme::TourDe::Hokkaido - A motorcycle touring plan
 
 # SYNOPSIS
 
@@ -8,7 +8,19 @@ Acme::TourDe::Hokkaido - It's new $module
 
 # DESCRIPTION
 
-Acme::TourDe::Hokkaido is ...
+Acme::TourDe::Hokkaido is a motorcycle touring plan by perl mongers in Japan.
+
+## SCHEDULE (PROVISIONAL)
+
+From 11:00 May 1, 2022 to 15:00 May 4, 2022
+
+## MEETING PLACE
+
+JR Tomakomai Sta.
+
+## ROUTE (PROVISIONAL)
+
+- North? South? or East?
 
 # LICENSE
 

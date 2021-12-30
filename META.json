@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "A motorcycle touring plan",
    "author" : [
       "ytnobody <ytnobody@gmail.com>"
    ],
@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ytnobody/p5-Acme-TourDe-Hokkaido/issues"
+      },
+      "homepage" : "https://github.com/ytnobody/p5-Acme-TourDe-Hokkaido",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ytnobody/p5-Acme-TourDe-Hokkaido.git",
+         "web" : "https://github.com/ytnobody/p5-Acme-TourDe-Hokkaido"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:YTURTLE",
    "x_serialization_backend" : "JSON::PP version 4.06",

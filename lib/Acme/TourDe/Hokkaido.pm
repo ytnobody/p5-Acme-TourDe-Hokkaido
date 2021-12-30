@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Acme::TourDe::Hokkaido - It's new $module
+Acme::TourDe::Hokkaido - A motorcycle touring plan
 
 =head1 SYNOPSIS
 
@@ -22,7 +22,23 @@ Acme::TourDe::Hokkaido - It's new $module
 
 =head1 DESCRIPTION
 
-Acme::TourDe::Hokkaido is ...
+Acme::TourDe::Hokkaido is a motorcycle touring plan by perl mongers in Japan.
+
+=head2 SCHEDULE (PROVISIONAL)
+
+From 11:00 May 1, 2022 to 15:00 May 4, 2022
+
+=head2 MEETING PLACE
+
+JR Tomakomai Sta.
+
+=head2 ROUTE (PROVISIONAL)
+
+=over 4
+
+=item * North? South? or East?
+
+=back
 
 =head1 LICENSE
 
