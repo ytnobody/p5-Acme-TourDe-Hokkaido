@@ -5,6 +5,7 @@ Acme::TourDe::Hokkaido - A motorcycle touring plan
 # SYNOPSIS
 
     use Acme::TourDe::Hokkaido;
+    Acme::TourDe::Hokkaido->next;  ## says next point of interest
 
 # DESCRIPTION
 

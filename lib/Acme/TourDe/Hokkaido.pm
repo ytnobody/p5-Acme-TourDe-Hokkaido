@@ -34,8 +34,7 @@ Acme::TourDe::Hokkaido - A motorcycle touring plan
 =head1 SYNOPSIS
 
     use Acme::TourDe::Hokkaido;
-    my $h = Acme::TourDe::Hokkaido;
-    $h->next; ## says next point of interest
+    Acme::TourDe::Hokkaido->next;  ## says next point of interest
 
 =head1 DESCRIPTION
 
